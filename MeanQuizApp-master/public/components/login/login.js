@@ -7,7 +7,7 @@
       //var userName = sessionStorage.userName;
       
       $document.ready(function(){
-         $rootScope.isLogin = false;       
+          $rootScope.isLogin = false;       
          //$scope.isSignup = true;
          $scope.isAdmin = false;
          $scope.loading = false;
